@@ -1,0 +1,1213 @@
+{
+    "AFECTACIONS A LA PEL": {
+        "ABCÈS, HERPES LABIAL, UNGLA ENCARNADA/ABSCESO, HERPES LABIAL, UÑA ENCARNADA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "HERPES ZOSTER": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MOSSEGADA/MORDIDA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PELL ENGROGUIDA/PIEL AMARILLA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PICADA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "URTICÀRIA/URTICARIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "AGUDITZACIÓ": {
+        "AUGMENT DE PES/CANSAMENT EN IC/AUMENTO DE PESO, CANSANCIO EN IC": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "3 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DESCOMPENSACIÓ SUCRE/TA/DESCOMPENSACIÓN DE AZÚCAR": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "EDEMES EN INSUFICIÈNCIA CARDÍACA/EDEMAS EN INSUFICIENCIA CARDÍACA": {
+            "AMB OFEC": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "ALTRES": {
+        "AFTA BUCAL": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "ANTICONCEPCIÓ D'EMERGÈNCIA/ANTICONCEPTIVO DE EMERGENCIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PÈRDUA DE PES SIGNIFICATIVA/PÉRDIDA DE PESO SIGNIFICATIVA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "REACCIÓ VACUNAL/REACCIÓN VACUNAL": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TAO (sintrom)/INJECTABLE/SINTROM O INYECTABLE": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Segons ordre del professional sanitari",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TAPS/TAPONES": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "7 dies ",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "ALTRES DOLORS": {
+        "ETS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL D'ORELLA/DOLOR DE OÍDO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MOLÈSTIES VULVOVAGINALS/MOLESTIAS VULVOVAGINALES": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "DOLOR AL ORINAR": {
+        "DIFICULTATS/PROBLEMES AMB LA SONDA/DIFICULTADES/PROBLEMAS CON LA SONDA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DISMENORREA PUNTUAL": {
+            "DOLOR DE REGLA": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Online o Telefònica"
+                    }
+                ]
+            }
+        },
+        "POSSIBLE INFECCIÓ D'ORINA / POSIBLE INFECCIÓN DE ORINA ": {
+            "DONA": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "HOME": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "SANG A L'ORINA/SANGRE EN ORINA": {
+            "DONA": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "HOME": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "DOLOR MUSCULAR": {
+        "CAIGUDA/CAÍDA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CONTRACTURA MUSCULAR CERVICAL": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CONTUSIÓ/CONTUSIÓN": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DOLOR ABDOMINAL": {
+            "CAP": {
+                "0,7": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 7,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ],
+                "7,1000": [
+                    {
+                        "Dia Minim": 7,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL AL MALUC/DOLOR DE CADERA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL D'ESQUENA/DOLOR DE ESPALDA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "IMPOTÈNCIA FUNCIONAL": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL DE GENOLL/DOLOR DE RODILLA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "IMPOTÈNCIA FUNCIONAL": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "RAMPES CONTINUADES/CALAMBRES CONTINUOS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TORÇADES/TORCEDURAS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "MALESTAR GENERAL": {
+        "FEBRE/FIEBRE": {
+            "CAP": {
+                "0,3": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 3,
+                        "T_VISITA": "7-15 dies ",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "3,1000": [
+                    {
+                        "Dia Minim": 3,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "GANGLIS INFLAMATS/ GANGLIOS INFLAMADOS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "INGESTA DE TÒXICS/INGESTA DE TÓXICOS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL DE CAP/DOLOR DE CABEZA": {
+            "AMB ALTRES SINTOMES": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "1000 dies",
+                        "PROF": "Infermeria",
+                        "COM": "Telefònica"
+                    }
+                ]
+            },
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL DE COLL/DOLOR DE GARGANTA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 - 3 días",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "MIGRANYA/MIGRAÑA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família ",
+                        "COM": "Telefònica o Presencial"
+                    }
+                ]
+            }
+        },
+        "MUCOSITAT/MUCOSIDAD": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "SENSE OFEC": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "OFEC/AHOGO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "CRISIS ASMÀTICA, REACCIÓ ALÉRGICA": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TOS": {
+            "AMB OFEC": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "CAP": {
+                "0,7": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 7,
+                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "7,1000": [
+                    {
+                        "Dia Minim": 7,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "VERTIGEN I MAREJOS/VÉRTIGOS Y MAREOS": {
+            "AMB ALTRES SINTOMES": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            },
+            "CAP": {
+                "1,1000": [
+                    {
+                        "Dia Minim": 1,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "PÈRDUA DE SANG": {
+        "SAGNAT DE NAS/SANGRADO NASAL": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "SAGNAT DIGESTIU/SANGRADO DIGESTIVO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TOS AMB SANG/TOS CON SANGRE": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "REACCIÓ URGENT": {
+        "AGITACIÓ/AGITACIÓN": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "AGRESSIÓ/AGRESIÓN": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "ASIMETRIA FACIAL": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "ATURADA CARDIORESPIRATÒRIA/PARO CARDIORESPIRATORIO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CONVULCIONS/CONVULCIONES": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CREMADES/QUEMADURAS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CRISI D'ANSIETAT/CRISIS DE ANSIEDAD": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CRISI HIPERTENSIVA/CRISIS HIPERTENSIVA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DESMAI/PERDUA DE CONCIÈNCIA/DESMAYO/PÉRDIDA DE CONCIENCIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DOLOR AGUT INTENS/DOLOR AGUDO INTENSO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "FERIDA/HERIDA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "HEMORRÀGIA/HEMORRAGIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PALPITACIONS/PALPITACIONES": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PERDUA SOBTADA VISIÓ/PÉRDIDA SUBIDA DE VISIÓN": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "REACCIÓ AL·LÈRGICA/REACCIÓN ALÉRGICA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "SINTOMES ICTUS/SÍNTOMAS DE ICTUS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TALLS/CORTES": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "TRAUMATISME SEVER/TRAUMATISMO SEVERO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "SIDTEMA NERVIÓS": {
+        "ANSIETAT / ANGOIXA/ANSIEDAD Y ANGUSTIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "7 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "CONFUSIÓ / NO COHERÈNCIA/CONFUSIÓN/NO COHERENCIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Torn",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DEPRESSIÓ/DEPRESIÓN": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "5 Dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "INSOMNI/INSOMNIO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "7 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "PÈRDUA DE MEMÒRIA/PÉRDIDA DE MEMORIA": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "7 dies",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "ZONA DEL VENTRE": {
+        "DIARREES/DIARREA": {
+            "CAP": {
+                "0,5": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 5,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "5,1000": [
+                    {
+                        "Dia Minim": 5,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DISMENORREA PERSISTENT/DISMENORREA PERSISTENTE": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família ",
+                        "COM": "Telefònica o Presencial"
+                    }
+                ]
+            }
+        },
+        "FEMTES NEGRES/SANG´/HECES NEGRAS/SANGRADO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família ",
+                        "COM": "Telefònica o Presencial"
+                    }
+                ]
+            }
+        },
+        "MAL DE PANXA/DOLOR DE ESTÓMAGO": {
+            "CAP": {
+                "0,5": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 5,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "5,1000": [
+                    {
+                        "Dia Minim": 5,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "RESTRENYIMENT/ESTREÑIMIENTO": {
+            "CAP": {
+                "0,5": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 5,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "5,1000": [
+                    {
+                        "Dia Minim": 5,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família ",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "VOMITS I/O NÀUSEAS/VÓMITOS Y/O NÁUSEAS": {
+            "CAP": {
+                "0,5": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 5,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Infermeria",
+                        "COM": "Presencial"
+                    }
+                ],
+                "5,1000": [
+                    {
+                        "Dia Minim": 5,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    },
+    "ZONA OCULAR": {
+        "COS ESTRANY A L'ULL/CUERPO EXTRAÑO EN EL OJO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "DOLOR OCULAR": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "ULL VERMELL/OJO ROJO": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "ULLS ENGROGITS/OJOS AMARILLOS": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Al proper espai lliure del teu professional",
+                        "PROF": "Metge de família",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        },
+        "VISIO DOBLE/VISIÓN DOBLE": {
+            "CAP": {
+                "0,1000": [
+                    {
+                        "Dia Minim": 0,
+                        "Dia Maxim": 1000,
+                        "T_VISITA": "Immediatament",
+                        "PROF": "Consultes immmediates",
+                        "COM": "Presencial"
+                    }
+                ]
+            }
+        }
+    }
+}

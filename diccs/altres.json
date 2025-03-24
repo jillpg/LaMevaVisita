@@ -1,0 +1,294 @@
+{
+    "ALTRES": {
+        "CONTROL CRÒNIC DE TENSÓ/DM/CONTROL CRÓNICO DE TENSIÓN Y DIABETES": [
+            {
+                "T_VISITA": "Segons el planificat",
+                "PROF": "Infermeria",
+                "COM": "Presencial"
+            }
+        ],
+        "DEMANDA MATERIAL SANITARI": [
+            {
+                "T_VISITA": "Segons personal administratiu",
+                "PROF": "TCAI",
+                "COM": "Presencial"
+            }
+        ],
+        "IMPRESSIÓ/ENVIAMENT PAUTA TAO": [
+            {
+                "T_VISITA": "Segons personal administratiu",
+                "PROF": "TCAI o Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "INFORME MÈDIC": [
+            {
+                "T_VISITA": "14 dias",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "INFORME PODÒLEG": [
+            {
+                "T_VISITA": "14 dias",
+                "PROF": "Infermeria",
+                "COM": "Online"
+            }
+        ],
+        "PAO": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "TCAE o Infermeria",
+                "COM": "Online"
+            }
+        ],
+        "PRIMERA CURA": [
+            {
+                "T_VISITA": "Segons criteri infermeria",
+                "PROF": "Infermeria",
+                "COM": "Presencial"
+            }
+        ],
+        "SEGUIMENT DE LA CURA/SEGUIMIENTO DE CURA": [
+            {
+                "T_VISITA": "Segons criteri infermeria",
+                "PROF": "Infermeria",
+                "COM": "Presencial"
+            }
+        ],
+        "SOL·LICITUD FARMÀCIA EXCLOSA": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "SOL·LICITUD HISTÒRIA CLÍNICA": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "VISITA DE SEGUIMENT CRÒNIC/VISITA DE SEGUIMIENTO CRÓNICO": [
+            {
+                "T_VISITA": "Segons el planificat",
+                "PROF": "Infermeria",
+                "COM": "Presencial"
+            }
+        ]
+    },
+    "ASSISTENCIA": {
+        "CONSULTA MEDICACIÓ": [
+            {
+                "T_VISITA": "2 dies",
+                "PROF": "Metge de família",
+                "COM": "Telefònica"
+            }
+        ],
+        "CONSULTA SOBRE PROBLEMES DE SALUT": [
+            {
+                "T_VISITA": "5 dies",
+                "PROF": "Metge de família",
+                "COM": "Telefònica"
+            }
+        ],
+        "CONSULTA SOBRE TRACTAMENT": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Metge de família",
+                "COM": "Telefònica"
+            }
+        ],
+        "CONSULTES SOBRE CERTIFICATS DE VACUNACIÓ": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Infermeria",
+                "COM": "Online o Telefònica"
+            }
+        ],
+        "DUBTES VACUNES": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ]
+    },
+    "BAIXES": {
+        "BAIXA IT (altres motius no COVID19)": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Metge de família",
+                "COM": "Presencial o Online"
+            }
+        ],
+        "INCIDÈNCIES IT/CONSULTES/COMUNICACIÓ ICAM": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Metge de família",
+                "COM": "Online o Telefònica"
+            }
+        ],
+        "RENOVACIÓ IT": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Metge de família",
+                "COM": "Online o Telefònica"
+            }
+        ]
+    },
+    "PLA DE MEDICACIÓ": {
+        "RECEPTES (especialtzada/privada)": [
+            {
+                "T_VISITA": "10 dies",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "RENOVAR PLA DE MEDICACIÓ INF": [
+            {
+                "T_VISITA": "5 dies",
+                "PROF": "Infermeria",
+                "COM": "Online"
+            }
+        ],
+        "RENOVAR PLA DE MEDICACIÓ MF": [
+            {
+                "T_VISITA": "5 dies",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ]
+    },
+    "PROVES": {
+        "DERIVACIONS A ESPECIALISTA NO URGENT": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Metge de família",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "ECG": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "TCAI",
+                "COM": "Presencial"
+            }
+        ],
+        "ESPIROMETRIA": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "TCAI",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "ITB": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "TCAI",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "MAPA": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "TCAI",
+                "COM": "Presencial"
+            }
+        ],
+        "PETICIÓ ANALÍTICA DE CONTROL": [
+            {
+                "T_VISITA": "14 dies o segons criteri infermeria",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "RESULTATS ANALÍTICA DE CONTROL": [
+            {
+                "T_VISITA": "15 dies o segons criteri infermeria",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "RESULTATS ANALÍTICA URGENTE": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "RESULTATS ECG DE CONTROL": [
+            {
+                "T_VISITA": "14 dias",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "RESULTATS PROVES INTERNES O APORTADES PEL PACIENT": [
+            {
+                "T_VISITA": "14 dias",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "RESULTATS RETINOGRAFIA": [
+            {
+                "T_VISITA": "14 dias",
+                "PROF": "Metge de família",
+                "COM": "Online"
+            }
+        ],
+        "TAO (prova)": [
+            {
+                "T_VISITA": "Segons pauta autocontrol ",
+                "PROF": "Infermeria",
+                "COM": "Presencial o Domiciliària"
+            }
+        ],
+        "TAO (sol·licitud)": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Infermeria",
+                "COM": "Presencial"
+            }
+        ],
+        "TAR/PCR (prova)": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "TCAI",
+                "COM": "Presencial"
+            }
+        ],
+        "TAR/PCR (sol·licitud)": [
+            {
+                "T_VISITA": "Al proper espai lliure del teu professional",
+                "PROF": "Infermeria o Metge de família",
+                "COM": "Online o Telefònica"
+            }
+        ]
+    },
+    "VACUNES": {
+        "HISTORIAL VACUNACIÓ": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "INCIDÈNCIA DE VACUNES": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ],
+        "PETICIÓ VACUNES": [
+            {
+                "T_VISITA": "7 dies",
+                "PROF": "Infermeria",
+                "COM": "Presencial, Telefònica o Online"
+            }
+        ]
+    }
+}
