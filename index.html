@@ -7,41 +7,37 @@
     <link rel="stylesheet" href="styles.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
 </head>
-<body>
-
-    <!-- Header with Logos -->
-    <header>
-        <div class="logo-left">
-            <img src="img\PatientPath_fondoBlanco.png" alt="Patient Path Logo">
-        </div>
-        <div class="logo-right">
-            <img src="img/AP_FondoBlanco.png" alt="Atenció Primària Logo">
-        </div>
+<body class="screen">
+    <!-- Header -->
+    <header class="header">
+        <img src="img/PatientPath_fondoBlanco.png" alt="Patient Path Logo" class="logo">
+        <img src="img/AP_FondoBlanco.png" alt="Atenció Primària Logo" class="logo">
     </header>
 
-     <!-- Contenido Principal -->
-     <main>
-        <div class="text-group">
+    <main class="content">
+        <div class="content-text">
+        <section class="text-group">
             <h1 class="text title">Necessites <span class="break">visitar-te?</span></h1>
             <p class="subtext subtitle">¿Necesitas visitarte?</p>
-        </div>
+        </section>
 
-        <div class="text-group">
-            <p class="text"><strong>Aquí et recomanem <span class="break">com, quan i amb qui </span></strong></p>
+        <section class="text-group">
+            <p class="text"><strong>Aquí et recomanem <span class="break">com, quan i amb qui</span></strong></p>
             <p class="subtext">Aquí te recomendamos <span class="break">cómo, cuándo y con quién</span></p>
-        </div>
+        </section>
+    </div>
 
-        <!-- Botón de acción -->
-        <button class="cta" id="btnSiguiente">
-            <span>Següent</span>
-            <small>Siguiente</small>
-            ➝
+        <button class="btn-primary" id="btn-Siguiente1">
+            <div class="btn_seguent">
+                <div class="text-group">
+                    <span>Següent</span>
+                    <small>Siguiente</small>
+                </div>
+                ➝
+            </div>
         </button>
-
     </main>
 
-
     <script src="script.js"></script>
-
 </body>
 </html>

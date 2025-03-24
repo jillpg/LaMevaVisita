@@ -4,24 +4,43 @@ body {
     text-align: center;
     margin: 7px;
     padding: 0;
-    background-color: white;
+}
+
+.screen {
+    background-color: #ffffff;
     color: #005a5c;
 }
 
+.green {
+    background-color: #086970;
+    color: #ffffff;
+}
 
 /* 📌 Header */
-header {
+.header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
-    padding: 20px;
+    padding: 10px;
 }
 
-/* 📌 Ajuste de logos */
-.logo-left img, 
-.logo-right img {
+.logo {
     max-height: 70px;
+}
+
+/* 📌 Contenido principal */
+.content {
+    margin: 3rem 1rem 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+
+}
+.content-text {
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
 }
 
 /* 📌 Grupo de textos */
@@ -29,39 +48,40 @@ header {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 2px; /* Menos espacio entre catalán y castellano */
-    margin: 0 10px 15px;
+    gap: 2px;
+    margin-bottom: 0px;
 }
 
-/* 🏷️ Texto normal */
 .text {
-    font-size: 1.4rem;
-    margin-bottom: 0;
+    font-size: 1.6rem;
+    margin: 0;
 }
 
-/* 🏷️ Subtexto */
 .subtext {
     font-size: 1rem;
     font-style: italic;
-    color: #666;
-    margin-top: 5px;
+    margin: 0;
 }
 
-/* 🏷️ Títulos */
 .title {
-    font-size: 2.5rem;
+    font-size: 3rem;
     font-weight: 700;
 }
 
-/* 🏷️ Subtítulo */
 .subtitle {
-    font-size: 1.2rem;
+    font-size: 1.6rem;
     font-style: italic;
-    color: #666;
 }
 
-/* 📌 Botón */
-.cta {
+.btn_seguent {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+
+
+/* 📌 Botones */
+.btn-primary {
     background-color: #005a5c;
     color: white;
     border: none;
@@ -70,66 +90,71 @@ header {
     font-weight: 600;
     cursor: pointer;
     border-radius: 25px;
-    margin-top: 20px;
-    display: inline-block;
-    transition: background 0.3s ease-in-out;
+    margin-top: 2rem;
+    transition: background 0.3s;
 }
 
-.cta:hover {
+.btn-primary:hover {
     background-color: #003d3e;
 }
+
+.btn-secondary {
+    background-color: transparent;
+    color: #ffffff;
+    border: 3px solid #ffffff;
+    padding: 15px 25px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 50px;
+    min-width: 250px;
+    transition: background 0.3s;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.btn-secondary:hover {
+    background-color: white;
+    color: #005a5c;
+}
+
+.button-group {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin-top: 3rem;
+}
+
+.btn-secondary .bold-text {
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+
+
 .break {
     display: inline; /* Por defecto, el texto está en línea */
   }
 
-/* 🔹 Estilos responsivos para menos de 500px */
-@media (max-width: 500px) {
-    /* Ajuste del tamaño de los títulos */
+/* 📌 Responsivo */
+@media (max-width: 600px) {
     .title {
         font-size: 2rem;
     }
-
-    /* Ajuste de logos */
-    .logo-left img, 
-    .logo-right img {
-        max-height: 50px;
-    }
-
-    /* Ajuste del subtítulo */
     .subtitle {
         font-size: 1rem;
     }
-
-    /* Ajuste de los textos */
-    .text-group {
-        width: 90%; /* Para que no se desborde */
-        text-align: center;
+    .logo {
+        max-height: 50px;
     }
-
-    /* 📌 Control de saltos de línea manualmente */
-    .text.title {
-        font-size: 2rem;
-        font-weight: 700;
-        line-height: 2.2rem;
+    .button-group {
+        flex-direction: column;
+        gap: 15px;
     }
-
-    /* Subtexto en español en una sola línea */
-    .subtext {
-        font-size: 0.9rem;
-        line-height: 1.2rem;
+    .btn-secondary {
+        width: 100%;
     }
-
-    /* Ajuste del botón */
-    .cta {
-        font-size: 1rem;
-        padding: 12px 25px;
-    }
-      
-    /* En pantallas pequeñas, se agrega un salto de línea */
     .break {
-        display: block; /* Hace que el texto después de esta clase pase a la siguiente línea */
-    }
-
-      
+        display: block; 
+      }
 }
-
