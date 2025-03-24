@@ -2,7 +2,7 @@
 body {
     font-family: 'Montserrat', sans-serif;
     text-align: center;
-    margin: 0ex;
+    margin: 7px;
     padding: 0;
     background-color: white;
     color: #005a5c;
@@ -14,6 +14,7 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    width: 100%;
     padding: 20px;
 }
 
@@ -86,6 +87,12 @@ header {
     /* Ajuste del tamaño de los títulos */
     .title {
         font-size: 2rem;
+    }
+
+    /* Ajuste de logos */
+    .logo-left img, 
+    .logo-right img {
+        max-height: 50px;
     }
 
     /* Ajuste del subtítulo */

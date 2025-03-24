@@ -97,6 +97,11 @@ header {
 
 /* 🔹 Responsivo (pantallas pequeñas) */
 @media (max-width: 600px) {
+    /* Ajuste de logos */
+    .logo-left img, 
+    .logo-right img {
+        max-height: 50px;
+    }
     .consulta-title {
         font-size: 2rem;
     }
