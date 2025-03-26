@@ -7,13 +7,10 @@ body {
 }
 
 /* 🌟 Fondo y estilos de la pantalla de consulta */
-.consulta-screen {
+.green {
     background-color: #086970;
     color: white;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+
 }
 
 /* 📌 Header */
@@ -21,7 +18,6 @@ header {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    width: 100%;
     padding: 20px;
 
 }
@@ -34,8 +30,12 @@ header {
 
 /* 📌 Contenedor de contenido */
 .consulta-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     text-align: center;
-    max-width: 800px;
+    width: 95%;
 }
 
 /* 📌 Títulos */

@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ca">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selecció de Gestió</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap" rel="stylesheet">
+</head>
+<body  class="screen green">
+    <header class="header">
+        <img src="img/PatientPath_fondoVerde.png" alt="Patient Path Logo" class="logo">
+        <img src="img/AP_FondoVerde.png" alt="Atenció Primària Logo" class="logo">
+    </header>
+    <main class="content">
+        <section class="text-group">
+            <h1 class="text title">Quin tipus <span class="break">de gestió</span> <span class="break">necessites?</span></h1>
+            <p class="subtext subtitle">¿Qué tipo de gestión necesitas?</p>
+        </section>
+
+        <div class="interactive">
+            <div class="container">
+            <table id="table-head">
+                <thead>
+                    <tr>
+                        <th></th>
+                        <th>Categorizació<br><span>Categorización</span></th>
+                        <th>Tipus de gestió<br><span>Tipo de gestión</span></th>
+                    </tr>
+                </thead>
+            </table>
+            <div class="table-container">
+                <table id="dynamic-table">
+                    <tbody>
+                        <tr>
+                            <td class="number">1</td>
+                            <td>
+                                <select>
+                                    <option selected disabled>Selecciona una opció</option>
+                                    <option>Opción 1</option>
+                                    <option>Opción 2</option>
+                                </select>
+                            </td>
+                            <td>
+                                <select>
+                                    <option selected disabled>Selecciona una opció</option>
+                                    <option>Opción A</option>
+                                    <option>Opción B</option>
+                                </select>
+                            </td>
+                        </tr>
+                    </tbody>
+                </table>
+                <button class="add-button" onclick="addRow()">+</button>
+            </div>
+        </div>
+            
+            
+            <button class="next-button">Següent →<br><span>Siguiente</span></button> 
+        </div>
+
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>
