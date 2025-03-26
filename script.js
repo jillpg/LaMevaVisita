@@ -43,7 +43,7 @@ function addRow() {
 document.addEventListener("DOMContentLoaded", () => {
 
     document.getElementById("btn-altres").addEventListener("click", function() {
-        window.location.href = "Altres.html";
+        window.location.href = "altres.html";
     });
 });
 
