@@ -40,6 +40,14 @@ function addRow() {
     tableBody.appendChild(newRow);
 }
 
+document.addEventListener("DOMContentLoaded", () => {
+
+    document.getElementById("btn-altres").addEventListener("click", function() {
+        window.location.href = "Altres.html";
+    });
+});
+
+
 
 
 
