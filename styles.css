@@ -223,7 +223,7 @@ tbody td {
 }
 
 select {
-    width: 12rem;
+    width: 80%;
     padding: 10px;
     border-radius: 5px;
     border: none;
@@ -282,7 +282,7 @@ select {
         font-size: 2rem;
     }
     .content{
-        margin-top: 1.5rem;
+        margin: 1.5rem 0.5rem 0;
     }
     .subtitle {
         font-size: 1rem;
