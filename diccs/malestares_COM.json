@@ -1,5 +1,5 @@
 {
-    "online":1,
-    "presencial":2,
-    "telefonica":3
+  "online": 2,
+  "presencial": 1,
+  "telefonica": 3
 }
