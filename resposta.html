@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Patient Path</title>
+    <title>Motiu de la Consulta</title>
     <link rel="stylesheet" href="styles.css" />
     <link
       href="https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;600;700&display=swap"
@@ -11,7 +11,6 @@
     />
   </head>
   <body class="screen">
-    <!-- Header -->
     <header class="header">
       <img
         src="img/PatientPath_fondoBlanco.png"
@@ -26,29 +25,30 @@
     </header>
 
     <main class="content">
-      <div class="content-text">
+      <div class="content-text v2">
         <section class="text-group">
           <h1 class="text title">
-            Necessites <span class="break">visitar-te?</span>
+            Et <span class="break">recomanem</span>
+
+            <span class="break">sol·licitar</span>
+
+            <span class="break-big">
+              <span class="break">visita amb el </span>
+
+              <span class="break">servei de...</span>
+            </span>
           </h1>
-          <p class="subtexto subtitle">¿Necesitas visitarte?</p>
-        </section>
-
-        <section class="text-group">
-          <p class="text">
-            <strong
-              >Aquí et recomanem
-              <span class="break">com, quan i amb qui</span></strong
-            >
-          </p>
-          <p class="subtexto">
-            Aquí te recomendamos
-            <span class="break">cómo, cuándo y con quién</span>
+          <p class="subtexto subtitle">
+            Te recomendamos solicitar visita con el servicio de...
           </p>
         </section>
+        <div class="answers" id="results-container">
+          <div id="where-ans"></div>
+          <div id="when-ans"></div>
+          <div id="how-ans"></div>
+        </div>
       </div>
-
-      <button class="btn-primary" id="btn-Siguiente1">
+      <button class="btn-primary" id="btn-Siguiente2">
         <div class="btn_seguent">
           <div class="text-group">
             <span>Següent</span>
