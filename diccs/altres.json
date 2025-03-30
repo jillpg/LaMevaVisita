@@ -23,14 +23,14 @@
         ],
         "INFORME MÈDIC": [
             {
-                "T_VISITA": "14 dias",
+                "T_VISITA": "14 dies",
                 "PROF": "Metge de família",
                 "COM": "Online"
             }
         ],
         "INFORME PODÒLEG": [
             {
-                "T_VISITA": "14 dias",
+                "T_VISITA": "14 dies",
                 "PROF": "Infermeria",
                 "COM": "Online"
             }
@@ -220,21 +220,21 @@
         ],
         "RESULTATS ECG DE CONTROL": [
             {
-                "T_VISITA": "14 dias",
+                "T_VISITA": "14 dies",
                 "PROF": "Metge de família",
                 "COM": "Online"
             }
         ],
         "RESULTATS PROVES INTERNES O APORTADES PEL PACIENT": [
             {
-                "T_VISITA": "14 dias",
+                "T_VISITA": "14 dies",
                 "PROF": "Metge de família",
                 "COM": "Online"
             }
         ],
         "RESULTATS RETINOGRAFIA": [
             {
-                "T_VISITA": "14 dias",
+                "T_VISITA": "14 dies",
                 "PROF": "Metge de família",
                 "COM": "Online"
             }

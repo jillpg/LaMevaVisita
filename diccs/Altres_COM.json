@@ -1,0 +1,6 @@
+{
+    "domiciliaria":1,
+    "online":2,
+    "presencial":3,
+    "telefonica":4
+}

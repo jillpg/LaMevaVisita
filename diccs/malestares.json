@@ -138,7 +138,7 @@
                     {
                         "Dia Minim": 0,
                         "Dia Maxim": 1000,
-                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "T_VISITA": "2-3 dies o en funció de baixa",
                         "PROF": "Infermeria",
                         "COM": "Presencial"
                     }
@@ -557,7 +557,7 @@
                     {
                         "Dia Minim": 0,
                         "Dia Maxim": 1000,
-                        "T_VISITA": "2 - 3 días",
+                        "T_VISITA": "2-3 dies",
                         "PROF": "Infermeria",
                         "COM": "Presencial"
                     }
@@ -594,7 +594,7 @@
                     {
                         "Dia Minim": 0,
                         "Dia Maxim": 1000,
-                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "T_VISITA": "2-3 dies o en funció de baixa",
                         "PROF": "Infermeria",
                         "COM": "Presencial"
                     }
@@ -642,7 +642,7 @@
                     {
                         "Dia Minim": 0,
                         "Dia Maxim": 7,
-                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "T_VISITA": "2-3 dies o en funció de baixa",
                         "PROF": "Infermeria",
                         "COM": "Presencial"
                     }
@@ -651,7 +651,7 @@
                     {
                         "Dia Minim": 7,
                         "Dia Maxim": 1000,
-                        "T_VISITA": "2 - 3 dies o en funció de baixa",
+                        "T_VISITA": "2-3 dies o en funció de baixa",
                         "PROF": "Metge de família",
                         "COM": "Presencial"
                     }
@@ -980,7 +980,7 @@
                     {
                         "Dia Minim": 0,
                         "Dia Maxim": 1000,
-                        "T_VISITA": "Torn",
+                        "T_VISITA": "Al proper espai lliure del teu professional",
                         "PROF": "Metge de família",
                         "COM": "Presencial"
                     }
