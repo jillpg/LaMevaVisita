@@ -138,6 +138,28 @@ body {
   display: block;
 }
 
+.contacts{
+  display: flex;
+  gap: 2rem;
+}
+
+.LMS {
+  margin-top: 1rem;
+  width: 10rem;
+}
+
+.TELF {
+  margin-top: 1rem;
+  width: 10rem;
+}
+
+.phone{
+  margin-bottom: 0;
+  font-size: 1.3rem;
+  margin-top: 1rem;
+}
+
+
 .interactive {
   display: flex;
   flex-direction: column;
