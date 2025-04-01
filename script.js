@@ -176,7 +176,7 @@ document.addEventListener("DOMContentLoaded", async () => {
           }
         });
 
-        containerTable.appendChild(newRow);
+        document.getElementById("con-table-info").appendChild(newRow);
         updateRowNumbers();
       }
     });
@@ -520,7 +520,7 @@ document.addEventListener("DOMContentLoaded", async () => {
         plusCell.appendChild(plusBtn);
         newRow.appendChild(plusCell);
 
-        containerTable.appendChild(newRow);
+        document.getElementById("con-table-info").appendChild(newRow);
         updateRowNumbers();
         populateCategoriaSelectMalestares(newCategoriaSelect, jsonData);
         newSymptomeSelect.disabled = true;

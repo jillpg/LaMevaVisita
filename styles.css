@@ -177,6 +177,32 @@ body {
   position: relative;
 }
 
+#con-table-info {
+  display: grid;
+  max-height: 13rem;
+  gap: 10px;
+  overflow-y: auto;
+}
+
+#con-table-info::-webkit-scrollbar {
+  width: 5px; /* Ancho del scrollbar */
+}
+
+#con-table-info::-webkit-scrollbar-track {
+  background: #086970; /* Color del fondo del scrollbar */
+  border-radius: 5px;
+}
+
+#con-table-info::-webkit-scrollbar-thumb {
+  background: #ffffff; /* Color blanco del scrollbar */
+  border-radius: 10px;
+}
+
+#con-table-info::-webkit-scrollbar-thumb:hover {
+  background: #e0e0e0; /* Un blanco ligeramente más oscuro al pasar el cursor */
+}
+
+
 .container-table.ct_m {
   width: 900px;
 }
@@ -188,6 +214,7 @@ body {
   grid-template-columns: 0.5fr 1fr 1fr;
   border-bottom: 2px solid #fff;
   padding-bottom: 10px;
+  align-items: center;
 }
 
 .header-table.ht_m {
@@ -198,6 +225,8 @@ body {
   display: grid;
   grid-template-columns: 0.5fr 1fr 1fr;
   width: 100%;
+  align-items: center;
+
 }
 
 .table-row.tr_m {
@@ -331,12 +360,27 @@ select {
 }
 
 @media (max-width: 600px) {
+
+  #con-table-info::-webkit-scrollbar-track {
+    background: #086970; /* Color del fondo del scrollbar */
+    border-radius: 2px;
+  }
+  
+  #con-table-info::-webkit-scrollbar-thumb {
+    background: #ffffff; /* Color blanco del scrollbar */
+    border-radius: 2px;
+  }
+  
+  #con-table-info::-webkit-scrollbar-thumb:hover {
+    background: #e0e0e0; /* Un blanco ligeramente más oscuro al pasar el cursor */
+  }
+
   .title {
     font-size: 2rem;
   }
 
   .content {
-    margin: 1.5rem 0.5rem 0;
+    margin: 1.5rem 0rem 0;
   }
 
   .subtitle {
@@ -358,8 +402,13 @@ select {
 
   .container-table,
   .container-table.ct_m {
+<<<<<<< HEAD
     width: 90%;
     padding: 10px;
+=======
+    width: 94%;
+    padding: 7px;
+>>>>>>> 4b9413c5637fece8b4939f711cd4c08a35b3349c
   }
 
   .table-row {
@@ -383,10 +432,20 @@ select {
     font-size: 0.4rem;
   }
 
+  .header-table.ht_m {
+    grid-template-columns: 0.2fr 1fr 1fr 1fr 1fr;
+    font-size: 0.6rem;
+  }
+
+  .header-table.ht_m .sub-table {
+    font-size: 0.4rem;
+  }
+
   .header-table {
     grid-template-columns: 0.3fr 1fr 1fr;
     font-size: 0.8rem;
   }
+
   .sub-table {
     font-size: 0.6rem;
   }
