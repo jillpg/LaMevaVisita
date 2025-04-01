@@ -185,21 +185,25 @@ body {
 }
 
 #con-table-info::-webkit-scrollbar {
-  width: 5px; /* Ancho del scrollbar */
+  width: 5px;
+  /* Ancho del scrollbar */
 }
 
 #con-table-info::-webkit-scrollbar-track {
-  background: #086970; /* Color del fondo del scrollbar */
+  background: #086970;
+  /* Color del fondo del scrollbar */
   border-radius: 5px;
 }
 
 #con-table-info::-webkit-scrollbar-thumb {
-  background: #ffffff; /* Color blanco del scrollbar */
+  background: #ffffff;
+  /* Color blanco del scrollbar */
   border-radius: 10px;
 }
 
 #con-table-info::-webkit-scrollbar-thumb:hover {
-  background: #e0e0e0; /* Un blanco ligeramente más oscuro al pasar el cursor */
+  background: #e0e0e0;
+  /* Un blanco ligeramente más oscuro al pasar el cursor */
 }
 
 
@@ -234,39 +238,26 @@ body {
   grid-template-columns: 0.5fr 1fr 1fr 1fr 1fr;
 }
 
+.content-text.v2 {
+  gap: 1.5rem;
+}
+
 .answers {
   display: flex;
   justify-content: center;
   flex-direction: column;
   align-items: center;
   gap: 0.7rem;
-}
-
-.content-text.v2 {
-  gap: 1.5rem;
-}
-
-#where-ans {
   font-size: 1.3rem;
   color: #0a666d;
-  border: 5px solid #0a666d;
-  padding: 7px 70px;
-  border-radius: 50px;
-  text-align: center;
+
 }
 
-#when-ans {
-  font-size: 1.3rem;
-  color: #0a666d;
-  border: 5px solid #0a666d;
-  padding: 7px 70px;
-  border-radius: 50px;
-  text-align: center;
-}
 
+
+#where-ans,
+#when-ans,
 #how-ans {
-  font-size: 1.3rem;
-  color: #0a666d;
   border: 5px solid #0a666d;
   padding: 7px 70px;
   border-radius: 50px;
@@ -362,30 +353,111 @@ select {
 @media (max-width: 600px) {
 
   #con-table-info::-webkit-scrollbar-track {
-    background: #086970; /* Color del fondo del scrollbar */
+    background: #086970;
+    /* Color del fondo del scrollbar */
     border-radius: 2px;
   }
-  
+
   #con-table-info::-webkit-scrollbar-thumb {
-    background: #ffffff; /* Color blanco del scrollbar */
+    background: #ffffff;
+    /* Color blanco del scrollbar */
     border-radius: 2px;
   }
-  
+
   #con-table-info::-webkit-scrollbar-thumb:hover {
-    background: #e0e0e0; /* Un blanco ligeramente más oscuro al pasar el cursor */
+    background: #e0e0e0;
+    /* Un blanco ligeramente más oscuro al pasar el cursor */
+  }
+
+  .principal   .content-text {
+    gap: 1.5rem
+  }
+
+  .content-text {
+    gap: 1rem
+  }
+
+
+  .contacts {
+    flex-direction: column;
+    max-height: 99%;
+    gap: 0.8rem;
+  }
+
+  .text {
+    font-size: 1rem;
+  }
+
+  .principal .text {
+    font-size: 1.5rem;
+  }
+
+  .subtexto {
+    font-size: 0.8rem;
+  }
+
+  .principal .subtexto {
+    font-size: 1.3rem;
   }
 
   .title {
     font-size: 2rem;
   }
 
-  .content {
-    margin: 1.5rem 0rem 0;
+  .principal .title {
+
+    font-size: 2.5rem;
   }
+
+
 
   .subtitle {
     font-size: 1rem;
   }
+
+  .principal .subtitle {
+
+    font-size: 1.5rem;
+  }
+
+  .principal .content{
+    margin: 3rem 0rem 0;
+  }
+
+
+  .content {
+    margin: 1.5rem 0rem 0;
+  }
+
+  .phone {
+    margin-bottom: 0;
+    font-size: 1rem;
+    margin-top: 0.3rem;
+  }
+
+  .LMS,
+  .TELF {
+    margin-top: 0.4rem;
+    width: 6rem;
+  }
+
+
+
+  .answers {
+    font-size: 0.7rem;
+    gap: 0.5rem;
+  }
+
+  #where-ans,
+  #when-ans,
+  #how-ans {
+    border: 3px solid #0a666d;
+    padding: 5px 10px;
+    border-radius: 50px;
+    text-align: center;
+  }
+
+
 
   .logo {
     max-height: 50px;
@@ -402,13 +474,8 @@ select {
 
   .container-table,
   .container-table.ct_m {
-<<<<<<< HEAD
-    width: 90%;
-    padding: 10px;
-=======
     width: 94%;
     padding: 7px;
->>>>>>> 4b9413c5637fece8b4939f711cd4c08a35b3349c
   }
 
   .table-row {
@@ -424,10 +491,12 @@ select {
     gap: 15px;
     margin-top: 0.2rem;
   }
+
   .header-table.ht_m {
     grid-template-columns: 0.2fr 1fr 1fr 1fr 1fr;
     font-size: 0.5rem;
   }
+
   .header-table.ht_m .sub-table {
     font-size: 0.4rem;
   }

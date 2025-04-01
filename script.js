@@ -349,10 +349,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       document.getElementById("where-ans").textContent =
         capitalizeFirstLetter(bestProf.join(" o ")) || "No encontrado";
       document.getElementById("when-ans").textContent =
-        "Temps de espera: " +
+        "Temps/Tiempo: " +
         (capitalizeFirstLetter(bestTVisita.join(" o ")) || "No encontrado");
       document.getElementById("how-ans").textContent =
-        "Tipus de visita: " +
+        "Com/Como: " +
         (capitalizeFirstLetter(bestCom.join(" o ")) || "No encontrado");
     } catch (error) {
       console.error("Error en el procesamiento de resposta.html:", error);
@@ -757,10 +757,10 @@ document.addEventListener("DOMContentLoaded", async () => {
       document.getElementById("where-ans").textContent =
         capitalizeFirstLetter(bestPROF.join(" o ")) || "No encontrado";
       document.getElementById("when-ans").textContent =
-        "Temps de malestar: " +
+        "Temps/Tiempo: " +
         (capitalizeFirstLetter(bestT_VISITA.join(" o ")) || "No encontrado");
       document.getElementById("how-ans").textContent =
-        "Tipus de malestar: " +
+        "Com/Como: " +
         (capitalizeFirstLetter(bestCom.join(" o ")) || "No encontrado");
     } catch (error) {
       console.error("Error en el procesamiento de resposta_m.html:", error);
