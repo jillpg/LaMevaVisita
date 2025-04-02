@@ -1,7 +1,8 @@
 import pandas as pd
+import json
 
 # Cargar el archivo Excel
-file_path = 'Base Flujo asistencial.xlsx'
+file_path = 'diccs/Base Flujo asistencial.xlsx'
 df = pd.read_excel(file_path, sheet_name='malestares')
 
 # Agrupar por las columnas 'TIPUS', 'ESPEC', 'CONDy', 'MM'
@@ -28,20 +29,15 @@ for (tipus, espec, condy, mm), group in grouped:
     result_dict[tipus][espec][condy][mm] = group_dict
 
 # Convertir el diccionario resultante a JSON
-import json
 result_json = json.dumps(result_dict, ensure_ascii=False, indent=4)
 
 # Guardar el archivo JSON
-with open('malestares.json', 'w', encoding='utf-8') as f:
+with open('diccs/malestares.json', 'w', encoding='utf-8') as f:
     f.write(result_json)
 
 print("El archivo JSON jerárquico ha sido creado con éxito.")
 
 
-import pandas as pd
-
-# Cargar el archivo Excel
-file_path = 'Base Flujo asistencial.xlsx'
 df = pd.read_excel(file_path, sheet_name='Altres')
 
 # Agrupar por las columnas 'TIPUS', 'ESPEC', 'CONDy', 'MM'
@@ -65,11 +61,10 @@ for (tipus, espec), group in grouped:
     result_dict[tipus][espec] = group_dict
 
 # Convertir el diccionario resultante a JSON
-import json
 result_json = json.dumps(result_dict, ensure_ascii=False, indent=4)
 
 # Guardar el archivo JSON
-with open('altres.json', 'w', encoding='utf-8') as f:
+with open('diccs/altres.json', 'w', encoding='utf-8') as f:
     f.write(result_json)
 
 print("El archivo JSON jerárquico ha sido creado con éxito.")

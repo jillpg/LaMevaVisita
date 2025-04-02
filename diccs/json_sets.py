@@ -2,9 +2,7 @@ import unicodedata
 import pandas as pd
 
 def normalize_text(text):
-    text = text.lower()
-    text = ''.join(c for c in unicodedata.normalize('NFKD', text) if not unicodedata.combining(c))
-    return text
+    return text.lower()
 
 def extract_unique_values(file_path, sheet_name, column_name):
     # Leer el archivo en un DataFrame desde la hoja especificada
@@ -24,14 +22,14 @@ def extract_unique_values(file_path, sheet_name, column_name):
     unique_dict = {value: idx for idx, value in enumerate(sorted(unique_values), start=1)}
     
     # Guardar en un archivo JSON con el nombre de la columna
-    output_filename = f"{sheet_name}_{column_name}.json"
-    pd.Series(unique_dict).to_json(output_filename, indent=4)
+    output_filename = f"diccs/{sheet_name}_{column_name}_v2.json"
+    pd.Series(unique_dict).to_json(output_filename, indent=4, force_ascii=False)
     print(f"Diccionario guardado en {output_filename}")
 
     return unique_dict
 
 # Ejemplo de uso
-file_path = "Base Flujo asistencial.xlsx"  # Archivo Excel
+file_path = "diccs/Base Flujo asistencial.xlsx"  # Archivo Excel
 sheets = ["Altres", "malestares"]  # Hojas a analizar
 columns = ["PROF", "COM", "T_VISITA"]  # Columnas a analizar
 
