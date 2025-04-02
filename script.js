@@ -189,16 +189,15 @@ document.addEventListener("DOMContentLoaded", async () => {
   function normalizeText(text) {
     return text
       .toLowerCase()
-      .normalize("NFD")
-      .replace(/[\u0300-\u036f]/g, "")
-      .replace(/[.,!?;:]/g, "")
       .trim();
   }
 
   function capitalizeFirstLetter(text) {
-    return text.charAt(0).match(/[a-z]/i)
-      ? text.charAt(0).toUpperCase() + text.slice(1)
-      : text;
+    let result = text.replace('tcai', 'TCAI');
+     
+    return result.charAt(0).match(/[a-z]/i)
+    ? result.charAt(0).toUpperCase() + result.slice(1)
+    : result;;
   }
 
   // Carga de diccionarios con caché (sessionStorage)
